@@ -27,7 +27,7 @@ github_username:  bartop
 # Build settings
 markdown: kramdown
 theme: minima
- plugins:
+plugins:
   - jekyll-feed
 
 # Exclude from processing.
